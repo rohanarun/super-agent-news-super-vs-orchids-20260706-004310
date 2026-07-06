@@ -1,0 +1,53 @@
+{
+  "citations": [
+    {
+      "source": "Memeburn",
+      "title": "Google gives Gemini 3.5 Flash computer use for AI agents",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4?oc=5"
+    },
+    {
+      "source": "blog.google",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0?oc=5"
+    },
+    {
+      "source": "TradingView",
+      "title": "AI agent development hasn\u2019t accelerated as expected, Zuckerberg says",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMGtRZUllbXdTTHpwYktZTU1fQmRyVzFDdXAwczJVdXJhS01wc0FlbFR2Uzk1LS1LYkZDdnJyWjFyRUcwT3BHTHVKVGhIVS1iT0htUTRqeEctVHZSSHNycUxLSXFwOWJOU05FcmQxaWtNV3IzdWszbXZFMkNmV01wT08wSjVXZVlONjRBNlBsS3QyNHpUdC1kMi1obkZZdWZvZEJvMjYtdVZiVi1oWHFjdG1LTDRFNDFOeTdhWGlyaVp5aFlBLW1oVkoxSQ?oc=5"
+    },
+    {
+      "source": "MIT News",
+      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RM1ZBZHlsbkR4dlJscXJLMkhFUzN1S280eXBsV1hCXzdCOTBraWZ1cUt1SUhqXzBUbThPSnBQdWpKTTI2aXdxQTdHbk9SM1d2NGluUXZ0cWktNzdWeS1xZHRQcVhDcWs5M2R4YXdUTGVvMThCRXc?oc=5"
+    },
+    {
+      "source": "SC Media",
+      "title": "Shell injection flaw found in 10 of 11 open-source AI agents",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdzI4SHY5RUNhUEQ0X2lETmh4SkdxaVQ4SHNaVlJ3X2EtYVJxMm0tT0tvQ3R1Z3ZVTGpuLWxWVEtFQW1qd3ZaVjFpdDlVMGhWUDc3QkFDd1pxQk9xZmxaYUg4ZE55SVB6dEw3TzhmdDJjRmo1RmJsUUR2UXF5MkNlakd6TFlQczdjOGJRZUMzRjhJSlpa?oc=5"
+    },
+    {
+      "source": "Anthropic Engineering",
+      "title": "Building Effective AI Agents",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed = hash('Super vs Orchids|competitor_comparison|people comparing Super with Orchids|2026-07-06T00:42:25.969026+00:00') \u2192 hero_architecture=comparison-lab, typography=Cabinet Grotesk, components=[decision-matrix, workflow-playbook-timeline, source-card-dossier], gsap=[pinned-chapter-scroll, hover-physics]. AIDA Check: Hero attracts with clear contrast, Interest via market proof, Desire via workflow depth, Action via persistent CTAs. Font Selection: Cabinet Grotesk confirmed (no Inter). Hero Math Verification: clamp headline 42\u201372px, max-width 1100px \u2192 2\u20133 lines. Bento Density Verification: compare-grid uses grid-auto-flow: dense. GSAP Motion Selection: guarded GSAP with ScrollTrigger fallback. Label Sweep & Button Check: primary black pill CTA, secondary white CTA verified.",
+  "generated_at": "2026-07-06T00:43:16.660678+00:00",
+  "headline": "Super vs Orchids \u2014 personal AI agents compared for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Orchids",
+    "competitor": "Orchids",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Orchids. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost. Include a long-form buyer guide with a decision matrix, migration checklist, how-to evaluation plan, and source-backed caveats.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Orchids AI agent",
+      "Orchids AI assistant",
+      "Orchids automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-orchids",
+    "title": "Super vs Orchids"
+  },
+  "summary": "A fair, source\u2011backed comparison of Super and Orchids for people evaluating personal AI agents. Orchids explores automation concepts; Super focuses on durable computer\u2011use workflows with a reusable computer-use cache that improves repeated execution."
+}
